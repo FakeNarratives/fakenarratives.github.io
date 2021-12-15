@@ -20,7 +20,7 @@ subtitle:
       <small>Head of Visual Analytics Research Group</small><br />
     </div>
     <div class="column">
-      <img src="../assets/img/Sherzod_Hakimov.jpeg">
+      <img src="../assets/img/Sherzod_Hakimov.png">
        <a href="https://sherzod-hakimov.github.io/" style="color:black">Dr. Sherzod Hakimov</a> <br />
       <small>Postdoctoral Researcher</small><br />
     </div>
