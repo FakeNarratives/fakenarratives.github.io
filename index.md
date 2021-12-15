@@ -4,13 +4,13 @@ title: FakeNarratives
 subtitle: 
 cover-img: /assets/img/project-banner.png
 ---
+<a href="https://www.uni-bremen.de/fb-10">
+<img src="./assets/img/logo-bremen.png"></a>
 <a href="https://www.tib.eu/en/research-development/visual-analytics">
 <img src="./assets/img/logo-l3s.png"></a>
 <a href="https://ch.uni-leipzig.de">
 <img src="./assets/img/logo-leipzig.png">
 </a> 
-<a href="https://www.uni-bremen.de/fb-10">
-<img src="./assets/img/logo-bremen.png"></a>
 
 
 <center><a href="https://www.softwaresysteme.pt-dlr.de/de/ki-in-der-praxis.php"> <img src="./assets/img/BMBF_logo.png"></a></center>
