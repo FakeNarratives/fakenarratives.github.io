@@ -19,7 +19,7 @@ author: FakeNarratives
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: "https://fakenarratives.github.io/"
+  Home: "index"
   Project: "about"
   Partners:
     - BRE: "bre"

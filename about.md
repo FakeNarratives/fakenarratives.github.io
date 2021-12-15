@@ -1,7 +1,7 @@
 ---
 layout: about
 title: About the Project
-subtitle: FakeNarratives
+subtitle: 
 cover-img: /assets/img/project-banner.png
 ---
 
