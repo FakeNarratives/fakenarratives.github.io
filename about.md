@@ -8,7 +8,7 @@ cover-img: /assets/img/project-banner.png
 
 <center> <h3> FakeNarratives - Understanding Narratives of Disinformation in Public and Alternative News Videos </h3> </center>
 
-The core idea of the project is to analyse the narrative structures of disinformation in videos from public media and alternative media shared in social networks. 
+The core idea of the project is to analyse the narrative structures of disinformation in videos from public media and alternative media shared on social networks. 
 
 Narrative structures of disinformation in public media are highly dangerous, as they fuel fundamental distrust among the audience and thus drive them into the arms of alternative, deliberately misleading information channels. Critical questions thus arise about similarities and differences between public media sources and alternative news videos of targeted disinformation, which will be investigated in this project.
 

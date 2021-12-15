@@ -8,8 +8,8 @@ subtitle:
   <div class="row">
     <div class="column">
        <img src="../assets/img/John_Bateman.png">
-       <a href="http://www.fb10.uni-bremen.de/anglistik/langpro/webspace/jb/zfn/index.html" style="color:black">Prof. John A. Bateman, PhD</a> <br />
-      <small>Linguistics, FB10 - Linguistics and Literary Studies</small><br />
+       <center><a href="http://www.fb10.uni-bremen.de/anglistik/langpro/webspace/jb/zfn/index.html" style="color:black">Prof. John A. Bateman, PhD</a></center> <br />
+      <center><small>Linguistics, FB10 - Linguistics and Literary Studies</small></center><br />
     </div>
   </div>
 
