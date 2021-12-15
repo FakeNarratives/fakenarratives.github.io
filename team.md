@@ -13,21 +13,21 @@ subtitle:
     </div>
   </div>
 
-<div><a href="https://www.tib.eu/en/research-development/visual-analytics" style="color:black"> <h2>L3S Research Center</h2> </a></div>
+<div><a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" style="color:black"> <h2>L3S Research Center</h2> </a></div>
   <div class="row">
      <div class="column">
-      <img src="../assets/img/Ralph_Ewerth.png"><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth" style="color:black">Prof. Dr. Ralph Ewerth</a> <br />
-      <small>Head of Visual Analytics Research Group</small><br />
+      <img src="../assets/img/Ralph_Ewerth.png"><center><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/ralph-ewerth" style="color:black">Prof. Dr. Ralph Ewerth</a></center> <br />
+      <center><small>Head of Visual Analytics Research Group</small></center><br />
     </div>
     <div class="column">
       <img src="../assets/img/Sherzod_Hakimov.png">
-       <a href="https://sherzod-hakimov.github.io/" style="color:black">Dr. Sherzod Hakimov</a> <br />
-      <small>Postdoctoral Researcher</small><br />
+       <center><a href="https://sherzod-hakimov.github.io/" style="color:black">Dr. Sherzod Hakimov</a></center> <br />
+      <center><small>Postdoctoral Researcher</small></center><br />
     </div>
     <div class="column">
       <img src="../assets/img/Eric_Mueller-Budack.png">
-       <a href="https://www.tib.eu/en/research-development/visual-analytics/staff/eric-mueller-budack" style="color:black">Dr. Eric Müller-Budack</a><br />
-      <small>Postdoctoral Researcher</small><br />
+       <center><a href="https://www.tib.eu/en/research-development/visual-analytics/staff/eric-mueller-budack" style="color:black">Dr. Eric Müller-Budack</a></center><br />
+      <center><small>Postdoctoral Researcher</small></center><br />
     </div>
   </div>
 
@@ -35,8 +35,8 @@ subtitle:
   <div class="row">
     <div class="column">
        <img src="../assets/img/Manuel_Burghardt.png">
-       <a href="https://ch.uni-leipzig.de/burghardt/" style="color:black">Prof. Dr. Manuel Burghardt</a> <br />
-      <small>Head of Computational Humanities Group</small><br />
+       <center><a href="https://ch.uni-leipzig.de/burghardt/" style="color:black">Prof. Dr. Manuel Burghardt</a></center> <br />
+      <center><small>Head of Computational Humanities Group</small></center><br />
     </div>
   </div>
     

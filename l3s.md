@@ -9,7 +9,7 @@ cover-img: /assets/img/L3S.PNG
 
 The <a href="http://www.l3s.de/en" style="color:black"><i> L3S </i></a> is a research center at the Leibniz University of Hannover and investigates the effects of digitization to derive options for action, recommendations, and innovation strategies for business, politics, and society.
 
-The Visual Analytics Research Group is hosted at TIB – Leibniz Information Centre for Science and part of the Joint Lab of TIB/L3S. Prof. Ralph Ewerth is head of the Visual Analytics Research Group and holds a professorship at the Leibniz University Hannover.
+The Visual Analytics Research Group is hosted at TIB – Leibniz Information Centre for Science and part of the Joint Lab of TIB/L3S. Prof. Ralph Ewerth is head of the <a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" style="color:black"><i>Visual Analytics Research Group </i></a>and holds a professorship at the Leibniz University Hannover.
 
 The group researches data analytics and visualization methods for automatic annotation, interpretation and exploration of multimodal information. The main research areas are multimodal/multimedia information retrieval, machine learning, and visual analytics focusing on:
 
