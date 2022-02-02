@@ -38,6 +38,17 @@ subtitle:
        <center><a href="https://ch.uni-leipzig.de/burghardt/" style="color:black">Prof. Dr. Manuel Burghardt</a></center> <br />
       <center><small>Head of Computational Humanities Group</small></center><br />
     </div>
+    <div class="column">
+       <img src="../assets/img/Bernhard_Liebl.png">
+       <center><a href="https://ch.uni-leipzig.de/team/" style="color:black">Bernhard Liebl</a></center> <br />
+      <center><small>Research Assistant</small></center><br />
+    </div>
+    <div class="column">
+       <img src="../assets/img/Andreas_Niekler.png">
+       <center><a href="https://ch.uni-leipzig.de/team/" style="color:black">Dr. Andreas Niekler</a></center> <br />
+      <center><small>Postdoctoral Researcher</small></center><br />
+    </div>
+
   </div>
     
 
