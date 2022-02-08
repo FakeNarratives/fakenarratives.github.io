@@ -25,8 +25,8 @@ This is the official webpage of the joint FakeNarratives research project. Check
 <h2>Recent Updates </h2>
 
 <div>
-	<img class="center" src="./assets/img/kickoff.png" width="450">
+	<img class="center" src="./assets/img/kickoff.png" width="500">
 	<center>
-	The first project meeting took place virtually on the February 1, 2022	
+	The first project meeting took place virtually on February 1, 2022.
 	</center>
 </div>
