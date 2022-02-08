@@ -11,6 +11,11 @@ subtitle:
        <center><a href="http://www.fb10.uni-bremen.de/anglistik/langpro/webspace/jb/zfn/index.html" style="color:black">Prof. John A. Bateman, PhD</a></center> <br />
       <center><small>Linguistics, FB10 - Linguistics and Literary Studies</small></center><br />
     </div>
+    <div class="column">
+       <img src="../assets/img/Chiao_Tseng.png">
+       <center><a href="https://www.chiaoitseng.de/" style="color:black">Dr. Chiao-I Tseng</a></center> <br />
+      <center><small>Linguistics, FB10 - Linguistics and Literary Studies</small></center><br />
+    </div>
   </div>
 
 <div><a href="https://www.tib.eu/en/research-development/research-groups-and-labs/visual-analytics" style="color:black"> <h2>L3S Research Center</h2> </a></div>
