@@ -13,9 +13,8 @@ subtitle:
     </div>
     <div class="column">
        <img src="../assets/img/Chiao_Tseng.png">
-       <br />
        <center><a href="https://www.chiaoitseng.de/" style="color:black">Dr. Chiao-I Tseng</a></center> <br />
-      <center><small>Linguistics, FB10 - Linguistics and Literary Studies</small></center><br />
+      <center><small>Senior Researcher</small></center><br />
     </div>
   </div>
 
