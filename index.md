@@ -18,12 +18,15 @@ cover-img: /assets/img/project-banner.png
 <center><h1>FakeNarratives - Understanding Narratives of Disinformation in Public and Alternative News Videos</h1></center>
 This is the official webpage of the joint FakeNarratives research project. Check out the <a href="https://fakenarratives.github.io/about/" style="color:black"><i>project description</i></a>, project partners (<a href="https://fakenarratives.github.io/bre" style="color:black"><i>University of Bremen</i></a>, <a href="https://fakenarratives.github.io/l3s" style="color:black"><i>L3S Research Center</i></a>, <a href="https://fakenarratives.github.io/lpz" style="color:black"><i>University of Leipzig</i></a>). We will update the page with news, resources, publications.
 
-<br>
-<br>
-<br>
+
 <br>
 <br>
 
 <h2>Recent Updates </h2>
 
-<p><img class="alignleft" src="./assets/img/kickoff.png" sizes="(max-width: 300px) 85vw, 300px" width="300" height="225"> The first FakeNarratives Project meeting took place virtually on the February 1, 2022.</p>
+<div>
+	<img class="alignleft" src="./assets/img/kickoff.png" width="350">
+	<div>
+	The first project meeting took place virtually on the February 1, 2022	
+	</div>
+</div>
