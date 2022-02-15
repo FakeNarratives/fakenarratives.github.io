@@ -31,6 +31,6 @@ This is the official webpage of the joint FakeNarratives research project. Check
 	</center>
 </div>
 <br>
-<div class="jekyll-twitter-plugin">
+<div class="center">
 	{% twitter https://twitter.com/BMBF_Bund/status/1492498779114807301 %}
 </div>
