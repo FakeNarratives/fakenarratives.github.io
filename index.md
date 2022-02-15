@@ -30,7 +30,3 @@ This is the official webpage of the joint FakeNarratives research project. Check
 	The first project meeting took place virtually on February 1, 2022.
 	</center>
 </div>
-<br>
-<div class="center">
-	{% twitter https://twitter.com/BMBF_Bund/status/1492498779114807301 %}
-</div>
