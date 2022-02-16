@@ -36,7 +36,9 @@ This is the official webpage of the joint FakeNarratives research project. Check
 <div class="center">
 	<blockquote class="twitter-tweet" data-theme="dark"><p lang="de" dir="ltr">Wissen schaffen, um Desinformation zu bekämpfen 💪. Das Thema Fake News in Nachrichtenvideos erforschen <a href="https://twitter.com/UniBremen?ref_src=twsrc%5Etfw">@UniBremen</a>, <a href="https://twitter.com/UniLeipzig?ref_src=twsrc%5Etfw">@UniLeipzig</a> und <a href="https://twitter.com/UniHannover?ref_src=twsrc%5Etfw">@UniHannover</a> gemeinsam. Mehr über ihre Forschung im 🎥👇<br><br>Das BMBF fördert gezielt <a href="https://twitter.com/hashtag/Forschung?src=hash&amp;ref_src=twsrc%5Etfw">#Forschung</a> gegen <a href="https://twitter.com/hashtag/FakeNews?src=hash&amp;ref_src=twsrc%5Etfw">#FakeNews</a>.<a href="https://twitter.com/hashtag/SaferInternetDay?src=hash&amp;ref_src=twsrc%5Etfw">#SaferInternetDay</a> <a href="https://t.co/LBUpJ2GS0j">pic.twitter.com/LBUpJ2GS0j</a></p>&mdash; BMBF (@BMBF_Bund) <a href="https://twitter.com/BMBF_Bund/status/1492498779114807301?ref_src=twsrc%5Etfw">February 12, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-	<video width="320" height="240" controls>
-  		<source src="./assets/vid/1492498779114807301.mp4" type="video/mp4">
-   </video>
+	<center>
+		<video width="500" height="350" controls>
+	  		<source src="./assets/vid/1492498779114807301.mp4" type="video/mp4">
+	   </video>
+   </center>
 </div>
