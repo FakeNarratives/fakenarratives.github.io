@@ -1,11 +1,21 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gemspec
+gem "jekyll", ">= 3.8.5"
 
-gem 'tzinfo-data'
+group :jekyll_plugins do
+  gem "jekyll-feed", "~> 0.6"
+  gem 'jekyll-twitter-plugin'
+  gem "jekyll-paginate", "~> 1.1.0"
+  gem "jekyll-sitemap"
+  gem "webrick"
+end
 
-gem 'jekyll-twitter-plugin'
+# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'rake'
+# Performance-booster for watching directories on Windows
+gem "wdm", "~> 0.1.0" if Gem.win_platform?
+
+# Twitter plugin
+# gem 'jekyll-twitter-plugin'
+gem 'jekyll-gist'
