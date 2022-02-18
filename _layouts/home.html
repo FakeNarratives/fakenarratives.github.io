@@ -29,17 +29,18 @@ layout: default
 
         {{ content }}
 
-        <hr>
+        <!-- <hr style="margin-top: 2em; margin-bottom: 2em; border-width: 4px;"> -->
 
-        <div class="row" style="text-align: left; justify-content: space-around; margin-top: 50px; margin-bottom: 50px">
-          <h2>Recent Updates </h2>
+        <div class="row" style="text-align: left; justify-content: space-around; margin-top: 70px; margin-bottom: 0">
+          <div class="col"><h2>Recent Updates </h2></div>
         </div>
       
         <!-- Home Post List -->
         {% for post in site.posts limit : 5 %}
+        <hr style="margin-top: 2em; margin-bottom: 2em; border-width: 4px;">
 
-        <article class="post-preview" style="margin-bottom: 50px;">
-          <h4 class="post-title">{{ post.title }}</h3>
+        <article class="post-preview">
+          <h4 class="post-title">{{ post.title }}</h4>
           <p><small class="text-muted">
             {{ post.date | date: '%B %d, %Y' }}
           </small></p>
@@ -48,13 +49,12 @@ layout: default
           </div>
         </article>
 
-        <hr>
 
         {% endfor %}
 
         <!-- Pager -->
-        <div class="clearfix">
-          <a class="btn btn-primary float-right" href="{{"/posts" | relative_url }}">View all posts &rarr;</a>
+        <div class="clearfix" style="margin-top: 50px">
+          <a class="btn btn-primary float-left" href="{{"/posts" | relative_url }}">View all posts &rarr;</a>
         </div>
 
       </div>
