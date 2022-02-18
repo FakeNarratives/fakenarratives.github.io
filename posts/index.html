@@ -6,12 +6,14 @@ background:
 
 {% for post in paginator.posts %}
 
-<article class="post-preview">
+<article class="post-preview" style="margin-bottom: 50px;">
   <h4 class="post-title">{{ post.title }}</h3>
   <p><small class="text-muted">
-    Posted on {{ post.date | date: '%B %d, %Y' }}
+    {{ post.date | date: '%B %d, %Y' }}
   </small></p>
-  {{post.content}}
+  <div style="text-align: justify">
+    {{post.content}}
+  </div>
 </article>
 
 <hr>
