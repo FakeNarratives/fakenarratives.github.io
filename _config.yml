@@ -24,3 +24,28 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
   - jekyll-gist
+  - jekyll-scholar
+
+# Bibliography
+scholar:
+  style: apa
+  locale: en
+
+  sort_by: year
+  order: descending
+
+  group_by: type, year
+  group_order: descending
+
+  source: ./_bibliography
+  bibliography: references.bib
+  bibliography_template: ""
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  query: "@*"

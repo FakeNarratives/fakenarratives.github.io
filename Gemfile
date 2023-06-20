@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-twitter-plugin'
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap"
+  gem "jekyll-scholar"
   gem "webrick"
 end
 
