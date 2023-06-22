@@ -1,5 +1,5 @@
 ---
-title: "Zoetrope Video Analysis Tool presented at Leipzig Digital Lab Method Talks"
+title: "Presentation on Zoetrope at Leipzig Digital Lab Method Talks"
 date: 2022-12-05
 ---
 
