@@ -12,7 +12,7 @@ background:
     <div class="row">
         <div class="col-lg-12">
             <!-- {% bibliography -q @inproceedings %} -->
-            {% bibliography %}
+            {% bibliography --query @*[status != ignore] %}
         </div>
     </div>
 
